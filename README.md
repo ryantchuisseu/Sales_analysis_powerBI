@@ -24,7 +24,7 @@ Nous avons transformé certaines tables en format date elles se présentait ains
 2. **Modélisation des données** : Création de relations entre les différentes tables pour structurer l'analyse dans Power BI.
 En fait j'ai du créer une autre table Month afin d'avoir des graphique qui étaient ordonnées.
 <img src="https://github.com/user-attachments/assets/78733526-b5ce-437f-963f-6d526221f81b" alt="Description de l'image" width="300">
-![Mauvais rangement](https://github.com/user-attachments/assets/83b413e4-3782-4862-b9ce-5bd9525d879d)
 
+<img src="https://github.com/user-attachments/assets/b4845e13-917a-4b20-9632-ecd8af11b7af" alt="Description de l'image" width="300">
 
-
+![Mauvais rangement](https://github.com/user-attachments/assets/b4845e13-917a-4b20-9632-ecd8af11b7af)
