@@ -28,7 +28,7 @@ En fait j'ai du créer une autre table Month afin d'avoir des graphique qui éta
 <img src="https://github.com/user-attachments/assets/2818e3cc-a277-4aaa-aad7-43f1b6920a2b" alt="Description de l'image" width="300">
 
 
-3. **Visualisation** : Conception de tableaux de bord Power BI comprenant des graphiques interactifs, des filtres, et des mesures clé comme les dépenses totales, les dépenses par fournisseur et par catégorie.
+3. **Visualisation** : Conception de tableaux de bord Power BI comprenant des graphiques interactifs, des filtres, et des mesures clé comme le budget total, les ventes par clients et bien d'autres.
 4. **Analyse des résultats** : Interprétation des visualisations pour formuler des conclusions pertinentes.
 
 ## Fonctionnalités Principales
@@ -49,3 +49,4 @@ Voici quelques exemples des visualisations créées dans Power BI:
 
 ## Comment Visualiser le Projet
 Pour consulter le projet :
+1. 
