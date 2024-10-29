@@ -27,3 +27,25 @@ En fait j'ai du créer une autre table Month afin d'avoir des graphique qui éta
 <img src="https://github.com/user-attachments/assets/b4845e13-917a-4b20-9632-ecd8af11b7af" alt="Description de l'image" width="300">
 <img src="https://github.com/user-attachments/assets/2818e3cc-a277-4aaa-aad7-43f1b6920a2b" alt="Description de l'image" width="300">
 
+
+3. **Visualisation** : Conception de tableaux de bord Power BI comprenant des graphiques interactifs, des filtres, et des mesures clé comme les dépenses totales, les dépenses par fournisseur et par catégorie.
+4. **Analyse des résultats** : Interprétation des visualisations pour formuler des conclusions pertinentes.
+
+## Fonctionnalités Principales
+- **Tableaux de bord dynamiques** : Plusieurs vues interactives permettent de filtrer les données selon différents critères.
+- **Filtres personnalisés** : Filtrage par fournisseur, catégorie d’achat, et montant dépensé.
+- **KPI (Indicateurs Clés de Performance)** : Indicateurs des dépenses totales, des fournisseurs principaux, et des catégories les plus dépensières.
+  
+## Outils Utilisés
+- **Power BI** : Pour la visualisation et l’analyse des données.
+- **Excel** : Pour le prétraitement et le nettoyage des données.
+- **GitHub** : Pour la gestion du code et la publication du projet.
+
+## Captures d'écran
+Voici quelques exemples des visualisations créées dans Power BI:
+![Mon tableau de bord](https://github.com/user-attachments/assets/3341f248-d113-4b1e-99b0-e7655920099f)
+
+
+
+## Comment Visualiser le Projet
+Pour consulter le projet :
