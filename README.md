@@ -49,4 +49,4 @@ Voici quelques exemples des visualisations créées dans Power BI:
 
 ## Comment Visualiser le Projet
 Pour consulter le projet :
-1.[[Télécharger le fichier Power BI](lien_vers_le_fichier.pbix)] https://github.com/ryantchuisseu/Sales_analysis_powerBI/blob/main/Sales_Analysis_PowerBI.pbix
+1. https://github.com/ryantchuisseu/Sales_analysis_powerBI/blob/main/Sales_Analysis_PowerBI.pbix
